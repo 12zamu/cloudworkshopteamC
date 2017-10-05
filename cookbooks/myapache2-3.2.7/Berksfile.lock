@@ -1,0 +1,7 @@
+DEPENDENCIES
+  myapache2
+    path: .
+    metadata: true
+
+GRAPH
+  myapache2 (3.2.7)
